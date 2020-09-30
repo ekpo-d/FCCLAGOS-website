@@ -32,6 +32,7 @@ footer{
 #landing {
   background: url("img/1.png") fixed;
   background-size: cover;
+  background-repeat: no-repeat;
   margin: 0px;
   padding: 0px;
   color: white;
@@ -40,6 +41,7 @@ footer{
   background: url("img/4.png");
   background-attachment: fixed;
   background-size: cover;
+  background-repeat: no-repeat;
   margin-top: 20px;
   padding-top: 80px;
   padding-bottom: 80px;
@@ -69,6 +71,7 @@ footer{
   background: url("img/3.png");
   background-attachment: fixed;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 #contact-form {
   background-color: white;
