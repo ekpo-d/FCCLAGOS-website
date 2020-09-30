@@ -14,3 +14,5 @@ and are based in Nigeria (preferably Lagos), do the following:
 1. Join Our [Facebook Group](https://www.facebook.com/groups/free.code.camp.lagos/)
 2. Introduce Yourself
 3. Share Your GitHub Username
+4. Connect with us and let us expand our area of knowledge
+5. Every single bit of new knowledge is highly appreciable.
