@@ -8,9 +8,11 @@ We are following:
 * The [W3Schools HTML Style Guide](http://www.w3schools.com/html/html5_syntax.asp),
 * The [WordPress CSS Style Guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
 
-If you are interested in joining this project, or any of our other projects,
-and are based in Nigeria (preferably Lagos), do the following:
+If you are interested in this project, or any of our other projects,and wanted to join
+then,follow the instruction i.e given below:
 
 1. Join Our [Facebook Group](https://www.facebook.com/groups/free.code.camp.lagos/)
 2. Introduce Yourself
 3. Share Your GitHub Username
+
+#Note:Based in Nigeria (preferably Lagos)
