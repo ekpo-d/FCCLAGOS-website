@@ -13,4 +13,4 @@ and are based in Nigeria (preferably Lagos), do the following:
 
 1. Join Our [Facebook Group](https://www.facebook.com/groups/free.code.camp.lagos/)
 2. Introduce Yourself
-3. Share Your GitHub Username
+3. Share Your GitHub Username (Meghna)
