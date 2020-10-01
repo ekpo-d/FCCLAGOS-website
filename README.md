@@ -12,5 +12,5 @@ If you are interested in joining this project, or any of our other projects,
 and are based in Nigeria (preferably Lagos), do the following:
 
 1. Join Our [Facebook Group](https://www.facebook.com/groups/free.code.camp.lagos/)
-2. Introduce Yourself
-3. Share Your GitHub Username
+2. Introduce Yourself i am a web developer and designer , i am from india
+3. Share Your GitHub Username abhishek-singh-tomar
