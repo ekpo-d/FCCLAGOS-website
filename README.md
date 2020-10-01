@@ -14,3 +14,6 @@ and are based in Nigeria (preferably Lagos), do the following:
 1. Join Our [Facebook Group](https://www.facebook.com/groups/free.code.camp.lagos/)
 2. Introduce Yourself
 3. Share Your GitHub Username
+
+# How to open file in your system
+open index.html only
