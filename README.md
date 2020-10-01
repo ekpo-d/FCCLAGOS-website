@@ -9,7 +9,7 @@ We are following:
 * The [WordPress CSS Style Guide](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
 
 If you are interested in joining this project, or any of our other projects,
-and are based in Nigeria (preferably Lagos), do the following:
+These are based in Nigeria (preferably Lagos), do the following steps:
 
 1. Join Our [Facebook Group](https://www.facebook.com/groups/free.code.camp.lagos/)
 2. Introduce Yourself
