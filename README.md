@@ -1,4 +1,4 @@
-# The Free Code Camp Lagos Website-For
+# The Free Code Camp Lagos Website-For You
 
 This is our first collaborative project - the FCCL website.
 
@@ -14,3 +14,4 @@ and are based in Nigeria (preferably Lagos), do the following:
 1. Join Our [Facebook Group](https://www.facebook.com/groups/free.code.camp.lagos/)
 2. Introduce Yourself
 3. Share Your GitHub Username
+4.Support Us across all social media platforms.
