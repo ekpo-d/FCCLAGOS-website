@@ -1,7 +1,7 @@
 # The Free Code Camp Lagos Website
 
 This is our first collaborative project - the FCCL website.
-* Visit our [Free Code Camp Lagos](https://flyingwithcaptainsoumya.github.io/FCCLAGOS-website/) Website.
+* Visit our [FCC Lagos](https://flyingwithcaptainsoumya.github.io/FCCLAGOS-website/) Website.
 
 We are following:
 
