@@ -1,5 +1,9 @@
 # The Free Code Camp Lagos Website
 
+here is the link to the hosted website, do check it out:
+
+# https://eloquent-goldwasser-9bec36.netlify.app 
+
 This is our first collaborative project - the FCCL website.
 
 We are following:
