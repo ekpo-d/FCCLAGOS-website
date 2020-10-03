@@ -202,7 +202,8 @@ color: #fff;
   margin: 0 2.5px 0 2.5px;
 }
 .nav-items > li > a > em:hover {
-  border-bottom: 1.5px solid #e7e7e7;
+  border-bottom: 1.5px solid #2aac2a;
+  transition-delay: 0.3s;
 }
 .nav-items > li > a > em:active {
   border-bottom: 1.5px solid #e7e7e7;
@@ -252,4 +253,15 @@ color: #fff;
   text-decoration: none;
   font-size: 18px;
   color: #fff;
+}
+
+.cta:hover
+{
+  background-color: #fff;
+  color: #2aac2a;
+  a
+}
+.cta a:hover
+{
+  color: #2aac2a;
 }
