@@ -1,4 +1,4 @@
-# The Free Code Camp Lagos Website
+# The Free Code Camp Lagos Website-an amazing project
 
 This is our first collaborative project - the FCCL website.
 
